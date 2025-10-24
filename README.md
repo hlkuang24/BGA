@@ -28,7 +28,7 @@ Place them in dev_data/ and models/, respectively.
 
 ### BGA
 
-File bga_mi_fgsm.py and bsr_bga_mi generate adversarial examples on inception_v3 model.  
+File bga_mi_fgsm.py and bsr_bga_mi.py generate adversarial examples on inception_v3 model.  
 File std_bga_ens.py generate adversarial examples on ensemble model.
 If you want to attack other models, replace the model in `graph` function and load such models in `main` function.
 
