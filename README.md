@@ -3,7 +3,7 @@
 This repository contains code to reproduce results from the paper:
 
 
-BGA: Bidirectional Gradient for Adversarial Attack
+Bidirectional gradient optimization for enhancing adversarial transferability
 
 
 ## Requirements
