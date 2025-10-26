@@ -1,6 +1,3 @@
-# coding=utf-8
-"""Implementation of MI-FGSM attack."""
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -385,4 +382,5 @@ def load_labels(file_name):
 
 
 if __name__ == '__main__':
+
     tf.app.run()
